@@ -1,6 +1,0 @@
-use_frameworks!
-target 'TPAutoArchiver_Tests' do
-  pod 'TPAutoArchiver', :path => '../'
-  
-  
-end
